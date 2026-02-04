@@ -83,3 +83,9 @@ The system is designed to demonstrate backend development using **Node.js**, dat
 ### 1️⃣ Install Dependencies
 ```bash
 npm install
+
+### 2️⃣Start server
+```bash
+node server.js
+
+
